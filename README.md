@@ -21,6 +21,7 @@ Time Square
 
 ## How we built it
 <b>a2b</b> was built using several different technologies: 
+
 1. **Flask & Python**: Python Server. 
 2. **HTML/CSS/JS**: Front-end of the <b>a2b</b> website that allows for companies and local services to sign up and publicize their charity.
 3. **Twilio**: API that allows <b>a2b</b> to send, receive, and interact with SMS technology.
