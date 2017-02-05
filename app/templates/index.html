@@ -14,6 +14,31 @@ body, html {height: 100%}
     background-position: center;
     background-size: cover;
 }
+
+
+.depth {
+    display: inline-block;
+    width: 100%;
+   /* border: 1px solid rgba(255,255,255,0.2);*/
+    background: linear-gradient(#eee, #fff);
+    transition: all 0.3s ease-out;
+    box-shadow: 
+        inset 0 1px 4px rgba(0,0,0,0.4);
+    padding: 5px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #000099;
+	text-align: center; 
+	font-family:customfont;
+}
+span {
+    display: inline-block;
+    width:50%;
+	
+
+	padding-bottom:35% ;
+}
+
 </style>
 
 <style> 
@@ -41,17 +66,23 @@ body, html {height: 100%}
 		<h1 class="w3-jumbo w3-animate-top">PROF HACKS</h1>
 		<hr class="w3-border-grey" style="margin:auto;width:40%"> </hr>
 		<p class="w3-large w3-center">Information regardless </p>
-	</div>
 	
 
+<br></br>
 	<form action = "server shit bitch" method = "get" target = "blank">	
-	
-		<input type = "text" name = "email" placeholder = "Enter your email..." style = "margin:auto;width:45%" ></input>
-		<input type = "text" name = "firstname" placeholder = "First name" style = "margin:auto;width:100%" ></input>
-		<input type = "text" name = "lastname" placeholder = "Last name" style = "margin:auto;width:100%" ></input>
-		<input type = "text" name = "cityname" placeholder = "City" style = "margin:auto;width:100%" ></input>
+		<input type = "text" class="depth" name = "firstname" placeholder = "First name"></input><br></br>
+		<input type="text" class="depth" name = "lastname" placeholder = "Last name"></input><br></br>
+		<input type = "text" class="depth" name = "email" placeholder = "Enter your email..."></input><br></br>
+		<input type = "password" class="depth" name = "password" placeholder = "Password"></input><br></br>
+		<br></br>
+		<input type="text" class="depth" name = "cityname" placeholder = "City name"></input><br></br>
+		<input type="text" class="depth" name = "statename" placeholder = "State"></input><br></br>
+		<input type="text" class="depth" name = "addressname" placeholder = "Address"></input><br></br>
+
+
 	</form>
 
+</div>
   	</div>
        
 

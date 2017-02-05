@@ -1,7 +1,0 @@
-#asks for my password
-mysql -u root -p 
-
-CREATE TABLE Query(ID int NOT NULL AUTO_INCREMENT, QUERY varchar(100) NOT NULL, PRIMARY KEY(ID));
-
-CREATE TABLE QueryResult(ID int NOT NULL AUTO_INCREMENT, QUERY varchar(100) NOT NULL, RESULT vachar(100) NOT NULL, PRIMARY KEY(ID));
-
