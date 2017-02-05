@@ -21,11 +21,11 @@ Time Square
 
 ## How we built it
 <b>a2b</b> was built using several different technologies: 
-1. <u>Flask & Python</u>: Python Server. 
-2. <u>HTML/CSS/JS</u>: Front-end of the <b>a2b</b> website that allows for companies and local services to sign up and publicize their charity.
-3. <u>Twilio</u>: API that allows <b>a2b</b> to send, receive, and interact with SMS technology.
-4. <u>Google Maps</u>: API that allows <b>a2b</b> to receive directions between an origin and destination.  
-5. <u>Ngrok</u>: A http-tunneling service that allows for a local hosted application to be accessed from a public IP address.  
+1. **Flask & Python**: Python Server. 
+2. **HTML/CSS/JS**: Front-end of the <b>a2b</b> website that allows for companies and local services to sign up and publicize their charity.
+3. **Twilio**: API that allows <b>a2b</b> to send, receive, and interact with SMS technology.
+4. **Google Maps**: API that allows <b>a2b</b> to receive directions between an origin and destination.  
+5. **Ngrok**: A http-tunneling service that allows for a local hosted application to be accessed from a public IP address.  
 
 ## Challenges we ran into
 The first and most crippling issue was getting here 12 hours late. As for technical issues, parsing directions from a google map API encoded .json, using JS and CSS for the first time, as well as switching from Windows to Ubuntu at 3:00 AM.  
