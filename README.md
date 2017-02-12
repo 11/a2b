@@ -1,4 +1,5 @@
-## PROF HACKS: 2nd Overall & Hackers Choice - Web application to get directions and browse the web via SMS as a data-less substitute for a GPS and browser.
+## Prof Hacks: 2nd Overall & Hackers Choice
+#### Web application to get directions and browse the web via SMS as a data-less substitute for a GPS and browser.
 
 ## Inspiration
 The Inspiration behind <b>a2b</b> was derived from an idea we had at a google case competition when we were told to come up with an idea to give back to our local community. When thinking about the larger issues that exist near Kean & Rutgers University, we realized one of the largest issues that both near by communities suffers from is lack of opportunity for the homeless. After some private research, we found that 87% of homeless people have access to flip phones - thus there is an opportunity to reach out and help via technology. 
