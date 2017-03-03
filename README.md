@@ -8,6 +8,7 @@
 3. Run ngrok: `$ ngrok http 8080`
 4. Run the python server: `$ python server`
 5. Send a text 
+
 ---
 
 ## Inspiration
