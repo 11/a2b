@@ -5,7 +5,7 @@
 ## How to run
 1. Clone project: `$ git clone https://github.com/11/a2b.git`
 2. Download [ngrok](https://ngrok.com/download) 
-3. Run ngrok: `ngrok http 8080`
+3. Run ngrok: `$ ngrok http 8080`
 4. Run the python server: `$ python server`
 5. Send a text 
 ---
